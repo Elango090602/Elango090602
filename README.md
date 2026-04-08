@@ -20,14 +20,6 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 
 ---
 
-## 📌 Featured Projects (Coming Soon 🚀)
-- 🔧 Manufacturing Intelligence System  
-- 📊 Executive Dashboard for Business Insights  
-- 🧠 SQL Case Study – E-commerce Analysis  
-- 🤖 Smart Analytics Chat Tool  
-
----
-
 ## 📈 What I Focus On
 - Building real-world business dashboards  
 - Data cleaning and transformation  
