@@ -29,8 +29,8 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your link here)
-- Email: (Your email here)
+- LinkedIn: https://www.linkedin.com/in/elango9602/
+- Email: elangov9602@gmail.com
 
 ---
 
