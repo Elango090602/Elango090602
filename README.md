@@ -2,7 +2,7 @@
 
 💼 Junior BI Analyst | Aspiring Data Analyst  
 📊 Skilled in Power BI, SQL, Python & Excel  
-📍 Based in Chennai, India  
+📍 Based in Chennai, India 
 
 ---
 
